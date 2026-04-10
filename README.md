@@ -1,1 +1,1 @@
-# copilot-plugins
+# agent-plugins
