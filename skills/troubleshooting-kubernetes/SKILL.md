@@ -1,5 +1,5 @@
 ---
-name: troubleshooting
+name: troubleshooting-kubernetes
 description: Kubernetesクラスターのトラブルシューティングを行います。
 license: MIT
 disable-model-invocation: true
